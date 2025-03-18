@@ -18,5 +18,8 @@ bun dev
     yarn install
     yarn add -D prettier  // Prettier
     yarn add -D eslint eslint-config-prettier eslint-plugin-prettier // eslint
+    yarn add prettier eslint-plugin-prettier eslint-config-prettier --dev
+
+
      
 ````
